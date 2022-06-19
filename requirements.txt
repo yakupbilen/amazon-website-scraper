@@ -1,0 +1,4 @@
+selenium==3.141.0
+pandas==1.2.5
+faker==8.10.3
+PyQt5==5.15.4

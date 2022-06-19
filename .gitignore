@@ -1,0 +1,11 @@
+scraping/images/
+.idea/
+__pycache__/
+objects/__pycache__/
+scraping/category.csv
+scraping/product.csv
+scraping/subcategory.csv
+scraping/chromedriver.exe
+scraping/__pycache__/
+widgets/__pycache__/
+set_datas/__pycache__/
